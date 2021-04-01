@@ -1,30 +1,25 @@
-## Welcome to GitHub Pages
+## Hello Jeremy this is a GH pages site
 
-You can use the [editor on GitHub](https://github.com/Binc-org/GHpages01/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am in useing the EDITOR in GH ( not on Visual Code , it will not load there, by the way)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### hi hi hi 
 
-### Markdown
+I will add words here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. word one
+2. word two
+3. word three
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Bullet one
+- bullet two
+- bullet three
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**JEREMY is very bold** and _Jeremy is Italic_ 
 
-**Bold** and _Italic_ and `Code` text
+[Link](https://binc-org.github.io/GHpages01/) and ![Image](src)
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
