@@ -18,15 +18,16 @@ I will add words here
 
 **JEREMY is very bold** and _Jeremy is Italic_ 
 
-[Link](https://binc-org.github.io/GHpages01/) and ![Image](src)
+The lick below is the ACTUAL site, please note it takes awhile ,,,, like three minutes to refreash and build the site new.
+[Link](https://binc-org.github.io/GHpages01/) 
+
+and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Still learning about changing the THEMEs.. this is 01 GHJEKYLL01 site...I will try to change 02 and 03.
 
-### Jekyll Themes
-
+  ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Binc-org/GHpages01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
+  ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
